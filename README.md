@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @merlin-101
 - 👀 I’m interested in AI development, 3D Software application, MMorpgs Architect data, GPU ray tracing and more!
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on any opportunities that can make me grow as a scientist and developer
+- 💞️ I’m looking to collaborate on any opportunities that can make me grow as a engineer and developer.
 - 📫 I'm unavailable at the moment, but I will soon reach the level to be able to work on future projects and create the world I envision!
 
 <!---
