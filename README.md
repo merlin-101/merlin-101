@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="120" src="https://media1.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif?cid=ecf05e479008qvtdp2c0h6ezdx2i2a1qzdboio0m77n6p2z5&rid=giphy.gif&ct=g">
 <h1 align="center">Hellooo 👋, My name is Rúben, also known by as Merlin!</h1>
-<h3 align="left">I'm currently a Software Engineer student at <a href="https://www.42network.org/" target="_blank"><img align="center" alt="Coding" width="50" src="https://imgs.search.brave.com/H9a3PPtszLDXVDOxCN1iUN6y27azkRwnjdO9L_csPUA/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5n/RkFvTFpiZnlnYlBW/djhveURlSHJRSGFF/SyZwaWQ9QXBp" /></a>, with a passion for MMORPG's, Full Stack, Ray tracing and Architecture!</h3>
+<h3 align="left">I'm currently a Software Engineer student at <a href="https://www.42network.org/" target= "_blank" rel="noopener noreferrer" ><img align="center" alt="Coding" width="50" src="https://imgs.search.brave.com/H9a3PPtszLDXVDOxCN1iUN6y27azkRwnjdO9L_csPUA/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5n/RkFvTFpiZnlnYlBW/djhveURlSHJRSGFF/SyZwaWQ9QXBp" /></a>, with a passion for MMORPG's, Full Stack, Ray tracing and Architecture!</h3>
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/stats?cursusId=21&coalitionId=290" alt="rnarciso's 42 stats" /></a>
 
