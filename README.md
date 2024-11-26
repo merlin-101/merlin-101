@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **C, the meaning of life, mainframe architecture, cyber security and dogs!**
 
-- 📫 How to reach me **rubencalcarao2@gmail.com!**
-
 - ⚡ Fun fact **I'm a softie for pups, anime, coffee, and lo-fi, best way to my hearth is with a combo!**
 
 <h3 align="left">Connect with me:</h3>
